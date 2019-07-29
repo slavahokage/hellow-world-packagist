@@ -3,6 +3,7 @@
     "type": "library",
     "license": "MIT",
     "description": "My first composer project",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "slavahokage",
