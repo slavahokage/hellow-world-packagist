@@ -1,5 +1,7 @@
 {
     "name": "vyacheslav/hello-world-packagist",
+    "type": "library",
+    "license": "MIT",
     "description": "My first composer project",
     "authors": [
         {
@@ -7,7 +9,6 @@
             "email": "slava123smirnov@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0"
     },
